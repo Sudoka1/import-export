@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "**Instructions**: * Export the functions in `hover.js`, `scroll.js` and `click.js` files.  * Import and call the functions in `index.js`.  * Include the `index.js` file in the HTML body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
